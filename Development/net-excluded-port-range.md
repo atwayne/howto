@@ -22,3 +22,5 @@ https://superuser.com/questions/1579346/many-excludedportranges-how-to-delete-hy
 - windows
 - network
 - port
+- netsh
+- winnat
