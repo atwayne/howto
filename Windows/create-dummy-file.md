@@ -6,16 +6,27 @@ To create a dummy file in seconds.
 
 ## Commands
 ### Syntax
-`fsutil file createnew <filename> <length>`
+```
+fsutil file createnew <filename> <length>
+```
 
+### Examples
 - Create a file with size of 1MB  
-`fsutil file createnew 1MB 1048576`
+```
+fsutil file createnew 1MB 1048576
+```
 - Create a file with size of 1GB  
-`fsutil file createnew 1GB 1073741824`
+```
+fsutil file createnew 1GB 1073741824
+```
 - Create a file with size of 10GB  
-`fsutil file createnew 10GB 10737418240`
+```
+fsutil file createnew 10GB 10737418240
+```
 - Create a file with size of 50MB  
-`fsutil file createnew 50GB 53687091200`
+```
+fsutil file createnew 50GB 53687091200
+```
 
 
 ## Source: 
