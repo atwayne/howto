@@ -23,7 +23,7 @@ fsutil file createnew 1GB 1073741824
 ```
 fsutil file createnew 10GB 10737418240
 ```
-- Create a file with size of 50MB  
+- Create a file with size of 50GB  
 ```
 fsutil file createnew 50GB 53687091200
 ```
