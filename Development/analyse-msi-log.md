@@ -1,4 +1,4 @@
-## Descriptiomn
+## Description
 
 >Basically, the Windows Installer spits out "value 3" when an action in the installation failed. So if you look up a few lines you'll see the culprit.
 
